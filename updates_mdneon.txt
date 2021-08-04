@@ -1,12 +1,12 @@
-{"version_code":211117007,"content":"
-<p>Update MDWhatsApp 8.92</p>
+{"version_code":211117008,"content":"
+<p>Update MDWhatsApp 8.92 Fix</p>
 
 
 <li>[Nuevo] Base Actualizada 2.21.11.17</li>
-<li>Permite restaurar copias de seguridad del Whatsapp Oficial crypt.14, también copias antiguas crypt.12 y mas</li>
+<li>Se corrigió el error de permisos de almacenamiento en Android 10 y 11</li>
 
 
 
 
-","url":"https://t.me/maydroid_mods"
+","url":"https://t.me/maydroid_mods/5791"
 }
