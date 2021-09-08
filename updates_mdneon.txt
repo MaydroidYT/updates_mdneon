@@ -1,12 +1,12 @@
-{"version_code":211117009,"content":"
-<p>Update MDWhatsApp 8.93</p>
+{"version_code":211117010,"content":"
+<p>Update MDWhatsApp 8.95</p>
 
 
-<li>Se corrigio el error de retraso de mensajes7</li>
-<li>Se corrigió el error de permisos de almacenamiento en Android 10 y 11</li>
+<li>Anti-View Once: Pueden ver imágenes / videos temporales de forma ilimitada</li>
+<li>Errores corregidos y mejoras</li>
 
 
 
 
-","url":"https://t.me/maydroid_mods/5809"
+","url":"https://t.me/maydroid_mods/5887"
 }
