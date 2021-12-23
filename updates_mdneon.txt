@@ -2,13 +2,12 @@
 <p>Update MDWhatsApp v9.11</p>
 
 
-<li>Base Fouad 2.21.19.21</li>
-<li>Nuevos estilos de ticks y burbujas añadidos estilos neon, navideños y más</li>
-<li>Antiexpiracion extendida</li>
+<li>Nuevos ticks y burbujas</li>
 <li>Estados de 5 minutos</li>
-<li>Aumentar la calidad de envió de imagenes</li>
-<li>"Abierto" en multimedia temporal</li>
-<li>Envíos masivo a grupos, difusiones, se puede adjuntar imágenes o videos</li>
+<li>Antiexpiracion extendida</li>
+<li>Oculta o Marca como abierto una multimedia temporal</li>
+<li>Mensajes masivos a grupos o difusiones</li>
+<li>Todas las funciones de Fouad</li>
 <li>Agradeciemientos a BSEWamods</li>
 
 
