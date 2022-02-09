@@ -1,5 +1,5 @@
 {"version_code":220273004,"content":"
-<p>Update MDWhatsApp v9.21</p>
+<p>MDNeon v9.21 MayDroid</p>
 
 
 <li>Iconos grandes al cambiar dpi corregido</li>
@@ -8,7 +8,7 @@
 <li>Traductor en chats</li>
 <li>Mas opciones en mensajes temporales</li>
 <li>Todas las funciones de Fouad</li>
-<li>Agradeciemientos a BSEWamods</li>
+<li>Agradecimientos a BSEWamods</li>
 
 
 
