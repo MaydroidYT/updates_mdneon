@@ -1,5 +1,5 @@
 {"version_code":220273004,"content":"
-<p>MDNeon v9.21 MayDroid</p>
+<p>Update MDWhatsApp v9.21</p>
 
 
 <li>Iconos grandes al cambiar dpi corregido</li>
