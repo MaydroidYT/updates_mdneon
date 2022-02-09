@@ -1,17 +1,17 @@
-{"version_code":211921007,"content":"
-<p>Update MDWhatsApp v9.11</p>
+{"version_code":220273004,"content":"
+<p>Update MDWhatsApp v9.21</p>
 
 
-<li>Nuevos ticks y burbujas</li>
-<li>Estados de 5 minutos</li>
+<li>Iconos grandes al cambiar dpi corregido</li>
+<li>Nuevos iconos femeninos</li>
 <li>Antiexpiracion extendida</li>
-<li>Oculta o Marca como abierto una multimedia temporal</li>
-<li>Mensajes masivos a grupos o difusiones</li>
+<li>Traductor en chats</li>
+<li>Mas opciones en mensajes temporales</li>
 <li>Todas las funciones de Fouad</li>
 <li>Agradeciemientos a BSEWamods</li>
 
 
 
 
-","url":"https://t.me/mdneonthemes/182"
+","url":"https://t.me/mdneonthemes/212"
 }
