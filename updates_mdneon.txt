@@ -1,14 +1,14 @@
 {"version_code":220273005,"content":"
-<p>Update MDWhatsApp v9.25.2</p>
+<p>Update MDWhatsApp v9.25</p>
 
 
 <li>Color de adjuntar corregido</li>
 <li>Reacciones en chat</li>
-<li>Emoji como foto de perfil</li>
+<li>Emoji foto de perfil</li>
 <li>Nueva privacidad</li>
 <li>Anti expiracion extendida</li>
 <li>Todas las funciones de Fouad</li>
-<li>Thanks BSEWamods y Hazar B</li>
+<li>Thanks BSEWamods y Hazar</li>
 
 
 
