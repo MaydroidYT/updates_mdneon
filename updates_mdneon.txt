@@ -1,8 +1,8 @@
-{"version_code":220273005,"content":"
-<p>Update MDWhatsApp v9.25</p>
+{"version_code":220273006,"content":"
+<p>Update MDWhatsApp v9.27</p>
 
 
-<li>Color de adjuntar corregido</li>
+<li>Corregido se congela la app</li>
 <li>Reacciones en chat</li>
 <li>Emoji foto de perfil</li>
 <li>Nueva privacidad</li>
@@ -13,5 +13,5 @@
 
 
 
-","url":"https://t.me/mdneonthemes/245"
+","url":"https://t.me/mdneonthemes/261"
 }
