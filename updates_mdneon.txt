@@ -1,11 +1,11 @@
-{"version_code":220273007,"content":"
-<p>Update MDWhatsApp v9.29</p>
+{"version_code":221073004,"content":"
+<p>Update MDWhatsApp v9.30F</p>
 
 
-<li>Corregido alerta falsa de virus</li>
-<li>Corregido se congela la app</li>
-<li>Reacciones en chat</li>
-<li>Emoji foto de perfil</li>
+<li>Nuevo. Estilos de corazon</li>
+<li>Nuevo. Sonidos personalizados</li>
+<li>Nuevos Emojis</li>
+<li>Reacciones personalizadas</li>
 <li>Anti expiracion extendida</li>
 <li>Todas las funciones de Fouad</li>
 <li>Thanks BSEWamods y Hazar</li>
