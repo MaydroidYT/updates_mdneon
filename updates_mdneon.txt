@@ -1,11 +1,11 @@
-{"version_code":221073004,"content":"
-<p>Update MDWhatsApp v9.30F</p>
+{"version_code":221073005,"content":"
+<p>Update MDWhatsApp v9.35</p>
 
 
-<li>Nuevo. Estilos de corazon</li>
-<li>Nuevo. Sonidos personalizados</li>
-<li>Nuevos Emojis</li>
-<li>Reacciones personalizadas</li>
+<li>Desactivar notas de voz continuas</li>
+<li>Sonidos personalizados</li>
+<li>Estilos de Corazon</li>
+<li>Indicador de admin en grupos</li>
 <li>Anti expiracion extendida</li>
 <li>Todas las funciones de Fouad</li>
 <li>Thanks BSEWamods y Hazar</li>
