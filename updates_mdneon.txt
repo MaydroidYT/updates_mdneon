@@ -1,17 +1,17 @@
-{"version_code":221776005,"content":"
-<p>Update MDWhatsApp v9.45</p>
+{"version_code":222377004,"content":"
+<p>Update MDWhatsApp v9.52F</p>
 
 
-<li>Desactivar notas de voz continuas</li>
-<li>Sonidos personalizados</li>
+<li>Avatares</li>
+<li>Enlace en llamadas</li>
 <li>Estilos de Corazon</li>
-<li>Reenviar estados</li>
-<li>Crear encuestas</li>
+<li>Estados en perfil</li>
+<li>Burbujas, ticks neon</li>
 <li>Anti expiracion extendida</li>
-<li>Thanks BSEWamods y Hazar</li>
+<li>Thanks BSEWamods, Yesii</li>
 
 
 
 
-","url":"https://t.me/mdneonthemes/49"
+","url":"https://t.me/mdneonthemes/31868"
 }
