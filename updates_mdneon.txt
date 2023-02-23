@@ -1,11 +1,11 @@
-{"version_code":222377004,"content":"
-<p>Update MDWhatsApp v9.52F</p>
+{"version_code":230176004,"content":"
+<p>Update MDWhatsApp v9.60</p>
 
 
 <li>Avatares</li>
-<li>Enlace en llamadas</li>
+<li>Guardar Msj Temporales</li>
+<li>Nota de voz continua</li>
 <li>Estilos de Corazon</li>
-<li>Estados en perfil</li>
 <li>Burbujas, ticks neon</li>
 <li>Anti expiracion extendida</li>
 <li>Thanks BSEWamods, Yesii</li>
