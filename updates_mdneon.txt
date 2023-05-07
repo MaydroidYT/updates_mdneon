@@ -1,5 +1,5 @@
-{"version_code":230176007,"content":"
-<p>Update MDWhatsApp v9.63</p>
+{"version_code":230176008,"content":"
+<p>Update MDWhatsApp v9.65</p>
 
 
 <li>Más AntiBan Mejorado</li>
