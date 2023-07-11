@@ -1,11 +1,11 @@
-{"version_code":230975001,"content":"
-<p>Update MDWhatsApp v9.71</p>
+{"version_code":230975002,"content":"
+<p>Update MDWhatsApp v9.72</p>
 
 
 <li>Fijar Mensajes</li>
 <li>Transferir Chats</li>
 <li>Nota de voz continua</li>
-<li>Estilos de Corazon</li>
+<li>Fix estilos Corazon</li>
 <li>Sonidos personalizados</li>
 <li>Base 2.23.9.75</li>
 <li>Thanks BSEWamods, Hazar, Yesii</li>
