@@ -1,8 +1,8 @@
-{"version_code":230975002,"content":"
-<p>Update MDWhatsApp v9.72</p>
+{"version_code":230975005,"content":"
+<p>Update MDWhatsApp v9.74E</p>
 
 
-<li>Fijar Mensajes</li>
+<li>Anti expiracion</li>
 <li>Transferir Chats</li>
 <li>Nota de voz continua</li>
 <li>Fix estilos Corazon</li>
