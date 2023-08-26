@@ -1,13 +1,13 @@
-{"version_code":230975005,"content":"
-<p>Update MDWhatsApp v9.74E</p>
+{"version_code":231376004,"content":"
+<p>Update MDWhatsApp v9.80</p>
 
 
 <li>Anti expiracion</li>
-<li>Transferir Chats</li>
-<li>Nota de voz continua</li>
-<li>Fix estilos Corazon</li>
-<li>Sonidos personalizados</li>
-<li>Base 2.23.9.75</li>
+<li>Video Mensajes</li>
+<li>Guarda Video Mensajes</li>
+<li>Enviar Medios HD</li>
+<li>Nuevo diseño barra accion</li>
+<li>Base 2.23.13.76</li>
 <li>Thanks BSEWamods, Hazar, Yesii</li>
 
 
